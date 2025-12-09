@@ -1,0 +1,6 @@
+# Ignore build and dependency directories
+build/
+dist/
+.gh_token
+*.min.*
+var

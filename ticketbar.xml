@@ -1,0 +1,57 @@
+<root>
+   <name>TicketBar</name>
+   <key>ticketbar</key>
+   <state>development</state>
+   <logo>https://raw.githubusercontent.com/pluginsGLPI/ticketbar/main/ticketbar.png</logo>
+   <description>
+      <short>
+         <en>TicketBar GLPI plugin</en>
+         <fr>Plugin GLPI TicketBar</fr>
+      </short>
+      <long>
+         <en>TicketBar is a proof-of-concept plugin for GLPI that adds a quick search bar to ticket forms, allowing technicians to rapidly add assets, locations, and ITIL objects to a ticket. This plugin is provided as-is and may not receive regular maintenance or updates. Use in production at your own risk.</en>
+         <fr>TicketBar est un plugin de démonstration pour GLPI qui ajoute une barre de recherche rapide dans les formulaires de tickets, permettant aux techniciens d'ajouter rapidement des assets, des lieux et des objets ITIL à un ticket. Ce plugin est fourni tel quel et peut ne pas être maintenu régulièrement. Utilisation en production à vos risques et périls.</fr>
+      </long>
+   </description>
+   <!-- <homepage>https://github.com/pluginsGLPI/ticketbar</homepage>
+   <download>https://github.com/pluginsGLPI/ticketbar/releases</download>
+   <issues>https://github.com/pluginsGLPI/ticketbar/issues</issues>
+   <readme>https://github.com/pluginsGLPI/ticketbar/blob/main/README.md</readme> -->
+   <authors>
+      <author>Maximilian NEU</author>
+   </authors>
+   <versions>
+      <version>
+         <num>0.0.5</num>
+         <compatibility>~11.0.0</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>en_GB</lang>
+      <lang>fr_FR</lang>
+   </langs>
+   <license>MIT</license>
+   <tags>
+      <en>
+         <tag>ticket</tag>
+         <tag>search</tag>
+         <tag>assets</tag>
+         <tag>proof of concept</tag>
+      </en>
+      <fr>
+         <tag>ticket</tag>
+         <tag>recherche</tag>
+         <tag>assets</tag>
+         <tag>démo</tag>
+      </fr>
+   </tags>
+
+   <changelog>
+      <en>
+         <change version="0.0.5">Initial public release (proof of concept)</change>
+      </en>
+      <fr>
+         <change version="0.0.5">Première version publique (preuve de concept)</change>
+      </fr>
+   </changelog>
+</root>
