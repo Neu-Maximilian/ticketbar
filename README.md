@@ -37,14 +37,17 @@ TicketBar is a GLPI plugin that adds a quick search bar to ticket forms, allowin
 - Network equipment
 - Phones
 - Peripherals
-- Software
-- Software licenses
-- Locations
-- Problems
-- Changes
-- Users
-- Suppliers
-- Contracts
+
+## Screenshots
+
+<img width="1419" height="917" alt="image" src="https://github.com/user-attachments/assets/df882b74-eb8b-4342-ae07-e047507f3ad5" />
+---
+<img width="799" height="420" alt="image" src="https://github.com/user-attachments/assets/cad0b38a-ddba-4a34-abe9-faabf0e6aa27" />
+---
+<img width="793" height="200" alt="image" src="https://github.com/user-attachments/assets/8553b705-bb3b-4dff-b4af-f9b64321dd96" />
+---
+<img width="709" height="205" alt="image" src="https://github.com/user-attachments/assets/f4449f7a-4814-4393-9a0f-a1122fd5f0bc" />
+
 
 ## Compatibility
 
