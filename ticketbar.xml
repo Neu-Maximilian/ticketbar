@@ -13,10 +13,11 @@
          <fr>TicketBar est un plugin de démonstration pour GLPI qui ajoute une barre de recherche rapide dans les formulaires de tickets, permettant aux techniciens d'ajouter rapidement des assets, des lieux et des objets ITIL à un ticket. Ce plugin est fourni tel quel et peut ne pas être maintenu régulièrement. Utilisation en production à vos risques et périls.</fr>
       </long>
    </description>
-   <!-- <homepage>https://github.com/pluginsGLPI/ticketbar</homepage>
-   <download>https://github.com/pluginsGLPI/ticketbar/releases</download>
-   <issues>https://github.com/pluginsGLPI/ticketbar/issues</issues>
-   <readme>https://github.com/pluginsGLPI/ticketbar/blob/main/README.md</readme> -->
+   <homepage>https://github.com/Neu-Maximilian/ticketbar</homepage>
+   <download>https://github.com/Neu-Maximilian/ticketbar/releases</download>
+   <issues>https://github.com/Neu-Maximilian/ticketbar/issues</issues>
+   <changelog>https://github.com/Neu-Maximilian/ticketbar/blob/main/CHANGELOG.md</changelog>
+   <readme>https://github.com/Neu-Maximilian/ticketbar/blob/main/README.md</readme>
    <authors>
       <author>Maximilian NEU</author>
    </authors>
