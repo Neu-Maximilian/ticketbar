@@ -28,6 +28,8 @@
 // This file is loaded before running tests
 
 // Define GLPI_ROOT if not already defined (for standalone testing)
+// Assumes plugin is installed in GLPI at: glpi/plugins/ticketbar/
+// So GLPI_ROOT is 4 levels up: glpi/plugins/ticketbar/tests/ -> glpi/
 if (!defined('GLPI_ROOT')) {
     define('GLPI_ROOT', dirname(__DIR__, 4));
 }
